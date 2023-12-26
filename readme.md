@@ -33,9 +33,8 @@ http://13.58.91.85/
   
 
 1.  ### Login
-2. ### Logout
-3.  ### Add User
-4. ### View User
-5.  ### Remove user
+2.  ### Add User
+3. ### View User
+4.  ### Remove user
 
 
